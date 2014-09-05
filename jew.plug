@@ -1,0 +1,7 @@
+[Core]
+Name = jew
+Module = jew
+    
+[Documentation]
+Description = An Err plugin to annoy Jack Heisenburg
+
